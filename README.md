@@ -5,7 +5,7 @@
 
 **版本** `v1.1.0` · **平台** Windows 10 / 11 全版本 · **许可** 永久免费 · 开放源码 · **出品** [atusu.cn](https://atusu.cn)
 
-软件包自行从  [default.exe](https://github.com/atanzhen/Disable-Windows-updates/releases/download/v1.1.0/default.exe)下载
+软件包自行从  [Releases](https://github.com/atanzhen/Disable-Windows-updates/releases/tag/v1.1.0)下载
 
 ---
 
