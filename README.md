@@ -5,6 +5,8 @@
 
 **版本** `v1.1.0` · **平台** Windows 10 / 11 全版本 · **许可** 永久免费 · 开放源码 · **出品** [atusu.cn](https://atusu.cn)
 
+软件包自行从  [default.exe](https://github.com/atanzhen/Disable-Windows-updates/releases/download/v1.1.0/default.exe)下载
+
 ---
 
 ## 目录
@@ -140,7 +142,7 @@ Windows 更新会在你工作、开会、渲染、挂机的时候强制重启，
 
 ```text
 禁止自动重启工具 v1.1.0/
-├─ 禁止自动重启工具.exe     主程序（单文件，无需安装）自行从  [default.exe](https://github.com/atanzhen/Disable-Windows-updates/releases/download/v1.1.0/default.exe)下载
+├─ 禁止自动重启工具.exe     主程序（单文件，无需安装）
 ├─ 使用说明.txt             用户手册
 ├─ README.md                本文件（开源说明 / 构建说明）
 └─ 源码/
