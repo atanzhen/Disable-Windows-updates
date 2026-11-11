@@ -7,6 +7,8 @@
 
 软件包自行从  [Releases](https://github.com/atanzhen/Disable-Windows-updates/releases/tag/v1.1.0)下载
 
+从网盘下载: https://pan.baidu.com/s/1HxR_ynTRGc7k0hCIuJuoDg?pwd=2xm9 提取码: 2xm9 
+
 ---
 
 ## 目录
